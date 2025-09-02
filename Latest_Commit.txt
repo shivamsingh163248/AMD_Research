@@ -1,0 +1,5 @@
+Microservice-admin-apps : 489e0ad4e76169eeb5a5f960472dbd8e76c5244d
+E-Ecommerce-Web-app : cec7a2337de3d481eb5587ee84cb9e3d3bd02abc
+k8sforbeginners : 0ae1142e48a981f65dbf3f81f0a287587154e444
+python_learning_colab : 4cf85e24f5db8b31f914db39f5acb58e58b664ab
+IIT-Ropar-Minor-in-AI : 3b9f24ac59d131d302f9f3cf0531367ed9a4de8c

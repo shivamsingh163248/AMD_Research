@@ -1,0 +1,65 @@
+
+🔹 Repo Changed: Microservice-admin-apps
+Old: 489e0ad4e76169eeb5a5f960472dbd8e76c5244d
+New: dcc2221aee6637eb1fc6a2899a2b68938cd76219
+Compare URL: View Changes (https://github.com/shivamsingh163248/Microservice-admin-apps/compare/489e0ad4e76169eeb5a5f960472dbd8e76c5244d...dcc2221aee6637eb1fc6a2899a2b68938cd76219)
+Commits Changed: 26
+  - 664c6ac | SHIVAM SINGH: � Comprehensive documentation update: README.md and PULLING.md with complete CI/CD workflows
+  - 3afa308 | SHIVAM SINGH: Merge branch 'Ansible_Workflow' of https://github.com/shivamsingh163248/Microservice-admin-apps into Ansible_Workflow
+  - 11c1d69 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.12
+  - 321fbb9 | SHIVAM SINGH: Add ip
+  - 170ba53 | SHIVAM SINGH: Merge branch 'Ansible_Workflow' of https://github.com/shivamsingh163248/Microservice-admin-apps into Ansible_Workflow
+  - 42148c9 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.13
+  - 4f661fb | SHIVAM SINGH: fix the iP
+  - 37ce1e4 | SHIVAM SINGH: Merge branch 'Ansible_Workflow' of https://github.com/shivamsingh163248/Microservice-admin-apps into Ansible_Workflow
+  - 58caba9 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.14
+  - bdc19b2 | SHIVAM SINGH: change port of deplyment
+  - 39f8cf7 | SHIVAM SINGH: update the triger poin of the branch
+  - 8ca03de | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.15
+  - 0b33c82 | SHIVAM SINGH: Merge branch 'Ansible_Workflow_Port' into 4-fix-the-bug-of-port
+  - 8a5869e | SHIVAM SINGH: Merge pull request #5 from shivamsingh163248/4-fix-the-bug-of-port
+  - ced7123 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.16
+  - 113dc5d | SHIVAM SINGH: update
+  - 5a2a0b3 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.17
+  - 184985f | SHIVAM SINGH: try fix the issue
+  - 75b3020 | SHIVAM SINGH: Merge branch 'Ansible_Workflow_Port' of https://github.com/shivamsingh163248/Microservice-admin-apps into Ansible_Workflow_Port
+  - 7b0d06f | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.18
+  - 262eba2 | SHIVAM SINGH: update
+  - 6b76472 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.19
+  - 1899991 | SHIVAM SINGH:  Fix CORS and API port configuration for new ports (8081/5001)
+  - 4963f89 | SHIVAM SINGH: Merge branch 'Ansible_Workflow_Port' of https://github.com/shivamsingh163248/Microservice-admin-apps into Ansible_Workflow_Port
+  - a1e1138 | shivamsingh163248: 🚀 Update docker-compose.yml to version v1.0.20
+  - dcc2221 | SHIVAM SINGH: Merge pull request #7 from shivamsingh163248/Ansible_Workflow_Port
+
+🔹 Repo Changed: E-Ecommerce-Web-app
+Old: cec7a2337de3d481eb5587ee84cb9e3d3bd02abc
+New: 8d4f635a7140351ec5e32502cc049080020fb86e
+Compare URL: View Changes (https://github.com/shivamsingh163248/E-Ecommerce-Web-app/compare/cec7a2337de3d481eb5587ee84cb9e3d3bd02abc...8d4f635a7140351ec5e32502cc049080020fb86e)
+Commits Changed: 6
+  - 0364d23 | SHIVAM SINGH: Revert "Merge pull request #26 from PRIYESH740/main"
+  - f8ff2f2 | SHIVAM SINGH: Revert "Revert "Merge pull request #26 from PRIYESH740/main""
+  - 76a8fb5 | SHIVAM SINGH: Merge pull request #28 from shivamsingh163248/child
+  - c531c73 | SHIVAM SINGH: Merge pull request #29 from shivamsingh163248/shivamsingh163248-patch-1
+  - 48a1dd4 | SHIVAM SINGH: Revert "Shivamsingh163248 patch 1"
+  - 8d4f635 | SHIVAM SINGH: Merge pull request #30 from shivamsingh163248/revert-29-shivamsingh163248-patch-1
+
+🔹 Repo Changed: k8sforbeginners
+Old: 0ae1142e48a981f65dbf3f81f0a287587154e444
+New: 59a13cbc243100e60a2f60c57f38231713c2a0c8
+Compare URL: View Changes (https://github.com/shivamsingh163248/k8sforbeginners/compare/0ae1142e48a981f65dbf3f81f0a287587154e444...59a13cbc243100e60a2f60c57f38231713c2a0c8)
+Commits Changed: 7
+  - 0729caa | devopscert202: Create k8s-intro.md
+  - b229272 | devopscert202: Create yaml-basics.md
+  - 8d2ec13 | devopscert202: Update yaml-basics.md
+  - 535d199 | devopscert202: Create crictl.md
+  - 079e273 | devopscert202: Update apache_service.yaml
+  - 8b7f286 | devopscert202: Create container-basics.md
+  - 59a13cb | devopscert202: Create container.md
+
+🔹 Repo Changed: IIT-Ropar-Minor-in-AI
+Old: 3b9f24ac59d131d302f9f3cf0531367ed9a4de8c
+New: db39286487e8306e3eea7ab89c05ceec58d8c68b
+Compare URL: View Changes (https://github.com/shivamsingh163248/IIT-Ropar-Minor-in-AI/compare/3b9f24ac59d131d302f9f3cf0531367ed9a4de8c...db39286487e8306e3eea7ab89c05ceec58d8c68b)
+Commits Changed: 2
+  - 32205e2 | SHIVAM SINGH: Created using Colab
+  - db39286 | SHIVAM SINGH: Created using Colab
